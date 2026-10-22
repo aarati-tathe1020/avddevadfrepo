@@ -1,0 +1,15 @@
+{
+	"name": "avddev2028",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2114ed87-417c-4586-a286-ce0973cee5a2",
+		"tenantId": "6077d28f-2162-40bc-94fe-131f61a93957"
+	}
+}
